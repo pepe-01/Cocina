@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
  
 <item>
-<title>Recetas de pollo</title>
+<title>Desayunos</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
@@ -9,7 +9,7 @@
 </item>
  
 <item>
-<title>cocina 2</title>
+<title>comidas</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
@@ -17,7 +17,15 @@
 </item>
  
 <item>
-<title>Conciertos</title>
+<title>Bebidas</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink></externallink>
+</item>
+
+<item>
+<title>Postres</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
