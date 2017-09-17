@@ -2,7 +2,7 @@
  
 <item>
 <title>Desayunos</title>
-<thumbnail></thumbnail>
+<thumbnail>http://bk-latam-prod.s3.amazonaws.com/sites/burgerkingpr.com/files/BK_Web_DESAYUNO_DELUXE_500X540px.png</thumbnail>
 <fanart>http://www.tollupol.es/wp-content/uploads/4403872-american-breakfast.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/pepe-01/Cocina/master/test1.xml</externallink>
@@ -10,7 +10,7 @@
  
 <item>
 <title>comidas</title>
-<thumbnail></thumbnail>
+<thumbnail>http://bocasgrill.com/wp-content/uploads/2016/07/mofongo_-Blog_BG.png</thumbnail>
 <fanart>http://37.media.tumblr.com/tumblr_loa2lsvBRX1qeg47lo1_500.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/pepe-01/Cocina/master/cocina2.xml</externallink>
@@ -18,7 +18,7 @@
  
 <item>
 <title>Bebidas</title>
-<thumbnail></thumbnail>
+<thumbnail>https://images.vexels.com/media/users/17482/112101/raw/6591e6b96aadde1a7ec604e7a30d1ecd-copos-bebidas-material-vector.png</thumbnail>
 <fanart>http://i.huffpost.com/gen/1242944/thumbs/o-COCKTAILS-facebook.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/pepe-01/Cocina/master/Bebidas.xml</externallink>
@@ -26,7 +26,7 @@
 
 <item>
 <title>Postres</title>
-<thumbnail></thumbnail>
+<thumbnail>http://www.elfinanciero.com.mx/files/article_main/uploads/2015/05/21/555e94b7dbfa4.png</thumbnail>
 <fanart>http://images.holaciudad.com/2015/05/14/postres-Puerto-Rico-haran-agua_806929710_9007571_1054x640.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/pepe-01/Cocina/master/Postres.xml</externallink>
